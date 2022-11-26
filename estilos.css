@@ -1,0 +1,89 @@
+*{
+    padding: 50px;
+    margin:250;
+    
+}
+
+nav{
+    position:fixed;
+    top: 0%;
+    margin-left:  350px; 
+    font-size:large;
+    font-style:normal;
+    font-feature-settings: "abvf";
+    font-family: helvetica;
+    text-align: center;
+    color: black;
+    width: 100;
+}
+
+nav:link{
+    position:fixed;
+    top: 0%;
+    margin-left:  350px; 
+    font-size:large;
+    font-style:normal;
+    font-feature-settings: "abvf";
+    font-family: helvetica;
+    text-align: center;
+    color: black;
+    width: 100;
+
+}
+
+
+.alonso {
+    max-width: 50%;
+  height: auto;
+  border-radius: 100%;
+    display: block;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+.ig{
+    height: 40px;
+    width: 40px;
+   
+}
+
+.obra{
+    padding: 10px;
+    margin-left: 0%;
+    margin-right: 0%;
+display: block;
+margin:auto;
+    width: 700px;
+    
+    
+}
+
+h1{
+    font-size:larger;
+    font-style:normal;
+    font-feature-settings: "abvf";
+    font-family: helvetica;
+    text-align: center;
+    color: black;
+    width: 100;
+}
+h2{
+    font-size:larger;
+    font-style:normal;
+    font-feature-settings: "abvf";
+    font-family: helvetica;
+    text-align: left;
+    color: black;
+    width: 100;
+}
+h3{
+    font-size:small;
+    font-style:normal;
+    font-feature-settings:"aalt";
+    font-family: helvetica;
+    text-align: left;
+    color: black;
+    width: 100;
+}
+
+
